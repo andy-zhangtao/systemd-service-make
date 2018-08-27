@@ -1,4 +1,4 @@
-# systemd-service-make
+# systemd-service-make ![](https://sonarcloud.io/api/project_badges/measure?project=smaker&metric=alert_status)
 Auto generate systemd service. Code by golang
 
 ## What is it?
