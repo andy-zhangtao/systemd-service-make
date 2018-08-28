@@ -1,6 +1,8 @@
 # systemd-service-make ![](https://sonarcloud.io/api/project_badges/measure?project=smaker&metric=alert_status)
 Auto generate systemd service. Code by golang
 
+![](https://raw.githubusercontent.com/andy-zhangtao/blogpic/master/smaker.gif)
+
 ## What is it?
 
 This tools named smaker. It can generate systemd service content. A user can reduce repeat work by it, e.g. write some formatting code, and keep code beautify.
